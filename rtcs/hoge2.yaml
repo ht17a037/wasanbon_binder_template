@@ -1,0 +1,5 @@
+#ConsoleOutput : 
+#  description : 'Hoge 2'
+#  type : git
+#  url : 'https://github.com/ht17a037/hoge2.git'
+#  platform : 'win, osx, ubuntu'
